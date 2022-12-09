@@ -1,1 +1,0 @@
-# arquitecturadeplataformas.github.io
