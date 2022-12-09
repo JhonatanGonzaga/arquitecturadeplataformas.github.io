@@ -1,0 +1,2 @@
+# arquitecturadeplataformas.github.io
+mnhgxhjklñjhgfhjkljhg
