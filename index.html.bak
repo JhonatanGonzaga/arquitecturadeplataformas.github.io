@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Computacion e Informatica - Inicio</title>
+<link href="css/estilo.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div class="base">
+		<div class="encabezado"></div>
+		<div class="menu">
+		</div>
+		<div class="slider">
+			
+		</div>
+		<div class="cuerpo">
+			<div class="ladoizquierdo">
+		   <div class="docentes">
+			   <div class="imag_docentes">
+			   </div>
+			   <div class="text_docentes">
+				   
+			   </div>
+		   </div>
+		   <div class="promociones">
+			   <div class="imag_promociones">
+			   </div>
+			   <div class="text_promociones">
+			  
+			   </div>
+		   </div>
+		</div>
+		<div class="presentacion">
+		    <div class="titulo_presentacion"></div>
+			<div class="texto_presentacion"></div>		
+		</div>
+		<div class="ladoderecho">
+		  <div class="alumnos">
+			  <div class="imag_alumnos">
+			  </div>
+			  <div class="text_alumnos">
+			  
+			  </div>
+		  </div>
+		  <div class="eventos">
+			  <div class="imag_eventos">
+			  </div>
+			  <div class="text_eventos">
+			  
+			  </div>
+			
+		  </div>
+		</div>
+			
+		</div>
+		<div class="redes">
+			<div class="perfil">
+		<div class="imag_perfil"></div>
+		<div class="text_perfil">
+		
+		</div>
+		</div>
+		<div class="facebook"></div>
+			
+			
+			
+			
+		</div>
+		<div class="pie">
+		</div>
+	</div>
+</body>
+</html>
