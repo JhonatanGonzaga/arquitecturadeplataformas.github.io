@@ -1,2 +1,0 @@
-# arquitecturadeplataformas.github.io
-# ddddd
